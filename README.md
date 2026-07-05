@@ -116,7 +116,7 @@ Les principaux paramètres modifiables sont regroupés en tête de fonction (`la
 
 ## Licence
 
-À définir selon vos besoins (MIT, GPL-3.0, etc. — libre à vous d'ajouter un fichier `LICENSE`).
+Licence MIT défini dans le fichier LICENSE.
 
 ## Contribuer
 
