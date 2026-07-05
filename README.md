@@ -10,7 +10,7 @@ Implémentation en 🐍 **Python** (`simulation_3d.py`) — NumPy + Matplotlib.
 
 ## Aperçu
 
-![Aperçu de la simulation](docs/simulation_3d.png)
+![Aperçu de la simulation](/simulation_3d.png)
 
 Chaque exécution génère un scénario différent (position, vitesse et manœuvres de la cible tirées aléatoirement) et produit :
 - une trajectoire 3D interactive (missile, cible réelle, cible estimée par l'EKF) ;
