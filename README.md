@@ -43,8 +43,7 @@ Chaque exécution génère un scénario différent (position, vitesse et manœuv
 ```
 .
 ├── simulation_3d.py     # Implémentation Python (NumPy + Matplotlib)
-├── docs/
-│   └── simulation_3d.png  # Exemple de sortie graphique
+├── simulation_3d.png  # Exemple de sortie graphique
 └── README.md
 ```
 
