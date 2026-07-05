@@ -116,8 +116,9 @@ Les principaux paramètres modifiables sont regroupés en tête de fonction (`la
 
 ## Licence
 
-Licence MIT défini dans le fichier LICENSE.
-
+Ce projet est distribué sous licence **MIT** — voir le fichier [LICENSE](LICENSE) pour le texte complet.
+ 
+En résumé : vous êtes libre d'utiliser, modifier et redistribuer ce code, y compris à des fins commerciales, à condition de conserver la mention de copyright et l'avis de licence d'origine.
 ## Contribuer
 
 Les suggestions et *pull requests* sont bienvenues : amélioration du modèle physique, ajout d'un vrai modèle 6-DDL, comparaison EKF vs UKF, etc.
